@@ -1,0 +1,7 @@
+git init
+git add .
+git config --global user.email "youname@domain.com"
+git config --global user.name "yourname"
+git commit -m "initial commit"
+git remote add origin paste url(repository)
+git push -u origin master
